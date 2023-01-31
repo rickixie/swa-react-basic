@@ -10,7 +10,8 @@
       "run": "npm start",
       "appDevserverUrl": "http://localhost:3000",
       "appName": "swa-react-basic-vscode",
-      "resourceGroupName": "swa-react-basic-vscode-rg"
+      "resourceGroupName": "swa-react-basic-vscode-rg",
+      "resourceGroup": "swa-react-basic-vscode-rg"
     }
   }
 }
